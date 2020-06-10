@@ -4,6 +4,6 @@ This time I'm optimistic for learning from a good youtube video on a channel cal
 Some changes
 And some other changes.
 
-This line is created on Atom! :pizza: :sparkles: :tada: :otocat:
+This line is created on Atom! :pizza: :sparkles: :tada: :octocat:
 
 More changes.
